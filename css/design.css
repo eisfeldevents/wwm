@@ -1,0 +1,57 @@
+body {
+
+    background-image: url("https://www.wiwo.de/images/file-photo-a-picture-illustration-shows-a-100-dollar-banknote-laying-one-dollar-banknotes/26119470/2-format1001.jpg");
+}
+
+.herrFrickeWiesoMüssenWirDeutscheBegriffeNehmen {
+    margin:auto auto;
+    font-size:40px;
+    font-family:"Copperplate Gothic Bold";
+    color:white;
+   width: 800px;
+    border:gray 1px solid;
+    border-radius:20px;
+    background-color:lightslategrey;
+    height:800px;
+}
+.ichKönntDeswegenEchtHeulen {
+    font-family:Calibri; accent-color: aquamarine;
+    min-width: 300px; max-width: 900px;
+    text-align:center;
+    padding-top: 100px;
+    margin:auto auto;
+    font-size: 20px;
+    color:black;
+}
+
+.start {
+    z-index:100;
+    position:relative;
+    font-family:impact;
+color:white;
+    margin:auto auto;
+    width:550px;
+    height:200px;
+    font-size:40px;
+    border:white 2px solid;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-image: url("../img/ineedadollar.png");
+}
+.startmillion{position:relative; margin:auto auto;width:550px; font-size:40px;top:-200px;
+
+}
+a {color:white;}
+
+a.hover {color:white;}
+
+.eingabedesign {margin:auto auto; width:255px; background-color:#cbc4b2;
+    height:50px;border-top:#00ff0080 0px solid;
+    z-index: 101; position:relative; top:-196px;left:-55px; text-shadow:3px 3px 3px #8d8a7b;}
+.verstecker {background-image:url("../img/dollarscheincut.jpg"); width:549px; margin:auto auto;background-size:cover;height:30px;
+    position:relative;top:-250px;z-index:500;
+           }
+
+.Kopierrecht {font-size:20px;font-color:white; font-family:Calibri;background-color:black; margin:auto auto; position:relative;width:620px; border-radius:3px; border:white 1px solid;
+
+}
